@@ -1,2 +1,2 @@
 # wc-tool
-A replica of linux wc command written in GO
+A replica of unix wc command written in GO
