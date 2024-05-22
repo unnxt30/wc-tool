@@ -21,7 +21,7 @@ func Flags() map[string]FlagDetails {
 		},
 		"m": {
 			description: "Number of special characters in the file.",
-			callback:    numSpecialChar,
+			callback:    numChar,
 		},
 	}
 }
